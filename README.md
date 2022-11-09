@@ -3,6 +3,7 @@
 
 
 ## Dataset
+Use the following [nbviewer link](https://nbviewer.org/github/RutoJaphe/FordGo_Bike_Data_Visualisation_Udacity/blob/master/exploratory.ipynb) to access the main notebook.
 
 The dataset used for analysis is a bike share dataset containing information about bike rides in the San Francisco Bay Area, for the month of February 2019. I wanted to see how long the bike rides took so the main feature for analysis is the bike ride duration.
 
